@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+#form{
+	text-align:center
+}
+
+#month{
+	float:center
+}
+
+#selectForm{
+	float:center
+}
+
+#form p{
+	text-align:center
+	color:#636d76;
+}
+
+footer{
+	text-align:center
+}
